@@ -6,7 +6,7 @@
   </p>
   <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="JairOliveiraDev" /></p>
+<p><img align="right" src="https://github.com/JairOliveiraDev/JairOliveiraDev/blob/main/animation_githubkxa883sd.gif" alt="JairOliveiraDev" /></p>
 - 🌱 I’m currently learning Web Development
 - 
 - 📫 How to reach me **jair.correa.oliveira@gmail**
@@ -57,9 +57,20 @@
       height="40" /> </a>-->
       </p>
 <br>
+<br>
+<br>
+<br>
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=JairOliveiraDev&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="JairOliveiraDev" bg_color=#808080/></p>
+    
+<br>
+
+[![Jair Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=JairOliveiraDev&count_private=true&show_icons=true&theme=radical)
+)
   
 <!--
-**JairOliveiraDev/JairOliveiraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 JairOliveiraDev
 
 Here are some ideas to get you started:
