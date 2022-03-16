@@ -7,12 +7,12 @@
   <br>
 
 <p><img align="right" src="https://github.com/JairOliveiraDev/JairOliveiraDev/blob/main/animation_githubkxa883sd.gif" alt="JairOliveiraDev" /></p>
-- 🌱 I’m currently learning Web Development
-- 
-- 📫 How to reach me **jair.correa.oliveira@gmail**
 
+- 🌱 I’m currently learning Web Development
+- 📫 How to reach me <a href="mailto:jair.correa.oliveira@gmail.com">jair.correa.oliveira@gmail.com</a>
 - ⚡ Fun fact :- Food. Gaming and Music🎵 are the reasons to live.
 
+    
 <br>
 
 <h3 align="left">Connect with me:</h3>
